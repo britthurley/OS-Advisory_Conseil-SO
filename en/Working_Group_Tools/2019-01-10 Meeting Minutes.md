@@ -2,17 +2,20 @@
 2019-01-10
 
 ## Present
-* Christian Sauve
-* Joshua Turner
-* Reg Maltais
-* Will Stevens
-* Dave Buchanan 
-* Brittany Hurley
+* Christian Sauve - PSC - Manager, Enterprise Architecture
+* Joshua Turner 
+* Reg Maltais - Stats Can - Unit Head
+* Will Stevens - Health Can - Manager, Blood Products Division
+* Dave Buchanan - CRA - Manager
+* Brittany Hurley - PSPC - Advisor - IT Strategy (GC Wide Programs & Services)
 * Jim Cowie
-* Sean Kibbee
-* Sebastien Lemay 
-* Guillaume Charest 
-* Stacey Williams 
+* Sean Kibbee - NRCan - Engagement Innovation
+* Sebastien Lemay - TBS - Open Source & Digital Enablement
+* Guillaume Charest - TBS - Open Source
+* Stacey Williams - TBS - Project Coordinator
+
+- Position information taken from GCDirectoy
+
 
 ## Notes
 
